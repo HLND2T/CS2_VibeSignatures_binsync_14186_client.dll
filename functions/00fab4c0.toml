@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:28.051193Z
+addr = 0xfab4c0
+size = 0xa8
+name = "GameStateAPI_GetPlayerRoundKills"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetPlayerRoundKills"
+addr = 0xfab4c0
+type = "long long"
+
+[header.args]

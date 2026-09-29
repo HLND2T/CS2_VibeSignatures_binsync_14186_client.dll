@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:26.790559Z
+addr = 0xfa6de0
+size = 0x481
+name = "GameStateAPI_GetMyCommendationsJSOForUser"
+type = "void"
+
+[header]
+name = "GameStateAPI_GetMyCommendationsJSOForUser"
+addr = 0xfa6de0
+type = "void"
+
+[header.args]

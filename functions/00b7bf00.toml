@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:24.774402Z
+addr = 0xb7bf00
+size = 0xbc
+name = "CSource2Client_ProcessGameInput"
+type = "long long"
+
+[header]
+name = "CSource2Client_ProcessGameInput"
+addr = 0xb7bf00
+type = "long long"
+
+[header.args]

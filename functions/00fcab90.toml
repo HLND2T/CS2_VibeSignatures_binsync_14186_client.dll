@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:08.446302Z
+addr = 0xfcab90
+size = 0x2c
+name = "GameStateAPI_IsDemoOrHltv"
+type = "char"
+
+[header]
+name = "GameStateAPI_IsDemoOrHltv"
+addr = 0xfcab90
+type = "char"
+
+[header.args]

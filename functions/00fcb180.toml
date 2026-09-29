@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:08.446306Z
+addr = 0xfcb180
+size = 0x2c
+name = "GameStateAPI_IsHLTVAutodirectorOn"
+type = "bool"
+
+[header]
+name = "GameStateAPI_IsHLTVAutodirectorOn"
+addr = 0xfcb180
+type = "bool"
+
+[header.args]

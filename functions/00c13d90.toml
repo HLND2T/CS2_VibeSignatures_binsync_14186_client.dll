@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:08.446130Z
+addr = 0xc13d90
+size = 0x1fb
+name = "CViewRender_OnRenderStart"
+type = "void *"
+
+[header]
+name = "CViewRender_OnRenderStart"
+addr = 0xc13d90
+type = "void *"
+
+[header.args]

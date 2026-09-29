@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:08.446300Z
+addr = 0xfca4b0
+size = 0x80
+name = "GameStateAPI_IsConnectedOrConnectingToServer"
+type = "bool"
+
+[header]
+name = "GameStateAPI_IsConnectedOrConnectingToServer"
+addr = 0xfca4b0
+type = "bool"
+
+[header.args]

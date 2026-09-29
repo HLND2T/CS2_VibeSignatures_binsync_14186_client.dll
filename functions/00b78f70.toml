@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:24.721627Z
+addr = 0xb78f70
+size = 0x3c8
+name = "OnRenderStart"
+type = "long long"
+
+[header]
+name = "OnRenderStart"
+addr = 0xb78f70
+type = "long long"
+
+[header.args]

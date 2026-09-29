@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:08.446286Z
+addr = 0xfb5860
+size = 0x36
+name = "GameStateAPI_GetTeamTotalPlayerCount"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetTeamTotalPlayerCount"
+addr = 0xfb5860
+type = "long long"
+
+[header.args]

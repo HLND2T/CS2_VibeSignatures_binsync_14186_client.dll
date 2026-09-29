@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:24.246733Z
+addr = 0xab0c80
+size = 0x168
+name = "CSimulationState_SetupJointState"
+type = "double"
+
+[header]
+name = "CSimulationState_SetupJointState"
+addr = 0xab0c80
+type = "double"
+
+[header.args]

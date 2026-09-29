@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:08.446340Z
+addr = 0xfecc60
+size = 0xbf
+name = "GameStateAPI_SetCasterControlsUI"
+type = "long long"
+
+[header]
+name = "GameStateAPI_SetCasterControlsUI"
+addr = 0xfecc60
+type = "long long"
+
+[header.args]

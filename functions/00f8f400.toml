@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:08.446158Z
+addr = 0xf8f400
+size = 0x80
+name = "GameStateAPI_GetAnnotationsViewingLevel"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetAnnotationsViewingLevel"
+addr = 0xf8f400
+type = "long long"
+
+[header.args]

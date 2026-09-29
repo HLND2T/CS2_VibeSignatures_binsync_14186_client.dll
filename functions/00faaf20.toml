@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:08.446242Z
+addr = 0xfaaf20
+size = 0xc3
+name = "GameStateAPI_GetPlayerMoney"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetPlayerMoney"
+addr = 0xfaaf20
+type = "long long"
+
+[header.args]

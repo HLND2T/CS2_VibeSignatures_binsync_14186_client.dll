@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:08.446220Z
+addr = 0xfa9dd0
+size = 0xd1
+name = "GameStateAPI_GetPlayerCommendsLeader"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetPlayerCommendsLeader"
+addr = 0xfa9dd0
+type = "long long"
+
+[header.args]

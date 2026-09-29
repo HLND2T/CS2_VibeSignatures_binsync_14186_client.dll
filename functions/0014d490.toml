@@ -1,0 +1,10 @@
+last_change = 2026-09-29T14:52:08.445933Z
+addr = 0x14d490
+size = 0x3
+name = "IGameSystem_OnClientPollNetworking"
+
+[header]
+name = "IGameSystem_OnClientPollNetworking"
+addr = 0x14d490
+
+[header.args]

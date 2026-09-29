@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:08.446254Z
+addr = 0xfab620
+size = 0x8a
+name = "GameStateAPI_GetPlayerSlot"
+type = "unsigned int *"
+
+[header]
+name = "GameStateAPI_GetPlayerSlot"
+addr = 0xfab620
+type = "unsigned int *"
+
+[header.args]

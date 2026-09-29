@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:08.446171Z
+addr = 0xf92c00
+size = 0x7
+name = "GameStateAPI_GetCommendationTokensAvailable"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetCommendationTokensAvailable"
+addr = 0xf92c00
+type = "long long"
+
+[header.args]

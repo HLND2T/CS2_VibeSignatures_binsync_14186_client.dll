@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:08.446180Z
+addr = 0xf98990
+size = 0x4f
+name = "GameStateAPI_GetGameModeName"
+type = "char *"
+
+[header]
+name = "GameStateAPI_GetGameModeName"
+addr = 0xf98990
+type = "char *"
+
+[header.args]

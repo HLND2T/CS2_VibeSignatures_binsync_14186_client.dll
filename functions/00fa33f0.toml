@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:08.446192Z
+addr = 0xfa33f0
+size = 0x44
+name = "GameStateAPI_GetMapDisplayNameToken"
+type = "void *"
+
+[header]
+name = "GameStateAPI_GetMapDisplayNameToken"
+addr = 0xfa33f0
+type = "void *"
+
+[header.args]

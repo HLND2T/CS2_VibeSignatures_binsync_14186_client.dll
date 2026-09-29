@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:08.446060Z
+addr = 0xa4ee40
+size = 0xc
+name = "CLoopModeGame_OnClientPostOutput"
+type = "long long"
+
+[header]
+name = "CLoopModeGame_OnClientPostOutput"
+addr = 0xa4ee40
+type = "long long"
+
+[header.args]

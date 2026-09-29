@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:24.350435Z
+addr = 0xabc3d0
+size = 0xcaa
+name = "CSkeletonInstance_PostDataUpdate"
+type = "int"
+
+[header]
+name = "CSkeletonInstance_PostDataUpdate"
+addr = 0xabc3d0
+type = "int"
+
+[header.args]

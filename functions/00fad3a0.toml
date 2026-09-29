@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:08.446262Z
+addr = 0xfad3a0
+size = 0x9f
+name = "GameStateAPI_GetPlayerTeamNumber"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetPlayerTeamNumber"
+addr = 0xfad3a0
+type = "long long"
+
+[header.args]

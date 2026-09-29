@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:08.446215Z
+addr = 0xfa9a90
+size = 0xa6
+name = "GameStateAPI_GetPlayerClanTag"
+type = "char *"
+
+[header]
+name = "GameStateAPI_GetPlayerClanTag"
+addr = 0xfa9a90
+type = "char *"
+
+[header.args]

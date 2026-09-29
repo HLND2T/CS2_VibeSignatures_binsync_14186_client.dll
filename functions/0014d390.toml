@@ -1,0 +1,10 @@
+last_change = 2026-09-29T14:52:08.445912Z
+addr = 0x14d390
+size = 0x3
+name = "IGameSystem_OnClientDisconnect"
+
+[header]
+name = "IGameSystem_OnClientDisconnect"
+addr = 0x14d390
+
+[header.args]

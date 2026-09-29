@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:52:08.446292Z
+addr = 0xfb7b70
+size = 0x3
+name = "GameStateAPI_GetViewerCount"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetViewerCount"
+addr = 0xfb7b70
+type = "long long"
+
+[header.args]
